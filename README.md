@@ -13,3 +13,6 @@
 **We got alpha Value 0.05 with highest roc_auc Score is 0.9012337852272319**
  
 **Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews**
+
+
+![Amazon-5-Star-Review-Illustration](https://user-images.githubusercontent.com/73969654/154196415-0b9ca0a4-ed15-4e4c-bc63-cec16f34e246.jpg)
